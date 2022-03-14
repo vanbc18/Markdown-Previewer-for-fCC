@@ -1,0 +1,25 @@
+#App {
+  background-color: #A7DBBD;
+}
+
+h4 {
+  background-color: #1B86DE;
+  padding: 1rem;
+  border: 1px solid black;
+  border-radius: 50px;
+}
+
+.myStyle {
+ width: 100%;
+ min-height: 80vh;
+}
+
+#editor {
+  background-color: #BDEBF9;
+}
+
+#preview {
+  padding: 2rem;
+  background-color: #C4F3E5;
+  border-radius: 45px;
+}
